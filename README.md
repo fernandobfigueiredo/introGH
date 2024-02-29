@@ -1,2 +1,2 @@
 # introGH
-meu primeiro repositori
+meu primeiro repositorio
